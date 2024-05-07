@@ -19,6 +19,12 @@ Python flask server exposed HTTP endpoints for various requests and UI written i
 
 <img width="968" alt="Screenshot 2024-05-07 at 9 28 15 AM" src="https://github.com/hrushikeshnm5/Bangalore-House-Price-Prediction/assets/147962087/2ad1fa61-5a5e-44be-a779-068fc005b170">
 
+# Finding best model using GridSearch CV
+
+<img width="1280" alt="Screenshot 2024-05-07 at 10 32 05 AM" src="https://github.com/hrushikeshnm5/Bangalore-House-Price-Prediction/assets/147962087/b556c2e0-e48e-4da4-9add-de1baad665a9">
+
+<img width="870" alt="Screenshot 2024-05-07 at 10 32 25 AM" src="https://github.com/hrushikeshnm5/Bangalore-House-Price-Prediction/assets/147962087/34602266-f2ca-4512-9300-1215b6a3fb4e">
+
 
 # Tools and Tech
 Python
